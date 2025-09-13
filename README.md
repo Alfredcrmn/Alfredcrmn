@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Alfred Carmona
-**A passionate Front-End Developer || Mobile and Web Developer || Kafka Admin from India**
+**A passionate Front-End Developer || Mobile and Web Developer**
 
 - 👨🏻‍🎓 Currently pursuing a degree in **Computer Science Engineering** @ Tec de Monterrey (started in 2023)
 - 🌟 **Hackathon Enthusiast**: I’ve participated in multiple hackathons, building projects like AI-powered habit trackers and smart home systems—proving my ability to think fast, adapt, and innovate
